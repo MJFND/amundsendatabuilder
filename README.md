@@ -1,4 +1,4 @@
-# Amundsen Databuilder
+## Amundsen Databuilder
 
 [![PyPI version](https://badge.fury.io/py/amundsen-databuilder.svg)](https://badge.fury.io/py/amundsen-databuilder)
 [![Build Status](https://api.travis-ci.com/lyft/amundsendatabuilder.svg?branch=master)](https://travis-ci.com/lyft/amundsendatabuilder)
